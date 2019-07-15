@@ -1,5 +1,3 @@
-//Readme.md
-//Michelle Torres
 
 # Work Node js
 
