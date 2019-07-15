@@ -15,7 +15,7 @@ git clone --depth 1 https://github.com/MichJames/Work1node
 ## Usage instructions
 On the terminal:
 
-```
+```node
 cd Work1node
 node index.js
 ```
